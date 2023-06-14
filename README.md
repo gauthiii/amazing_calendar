@@ -12,9 +12,9 @@ To know more, view the screenshots:
 
 
 <p>
-<img src="https://github.com/gauthiii/fibonacci/assets/35861219/22fb5364-6618-44ce-806c-0c50379966ec" height="400">
-  <img src="https://github.com/gauthiii/fibonacci/assets/35861219/80fe8304-af4f-4cc8-94ac-1c09e2d463c3" height="400">
-  <img src="https://github.com/gauthiii/fibonacci/assets/35861219/be993134-58fc-4160-9afa-0a560797fc9d" height="400">
+<img src="https://github.com/gauthiii/amazing_calendar/assets/35861219/c79fc050-fcc3-4a3a-8151-18d598fe4163" height="400">
+  <img src="https://github.com/gauthiii/amazing_calendar/assets/35861219/84dbad51-74c2-46f7-ae1b-6e3a5584c7cc" height="400">
+  <img src="https://github.com/gauthiii/amazing_calendar/assets/35861219/ab227f7a-beed-40fc-bec8-cfc5a3acb9a7" height="400">
 <br>
 </p>
 
